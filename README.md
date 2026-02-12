@@ -3,6 +3,8 @@
 This project implements a constrained options trading simulator focused on risk engineering, not headline returns.
 Data resolution follows the input dataset (real-data generation defaults to minute bars).
 
+📄 For a detailed failure analysis and system evolution, see [POST_MORTEM.md](POST_MORTEM.md).
+
 ## Scope & Limitations
 
 This system is intended for research and educational purposes.
