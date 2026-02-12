@@ -1,0 +1,109 @@
+2025-02-20 STANCE FLAT->LONG_VOL (mode=adaptive, reason=LONG: adaptive enter persisted)
+2025-02-21 RISK_CLAMP mode=adaptive (requested=3, clamped=2, reason=Blocked: capital-at-risk limit breached)
+2025-02-24 LONG_DIAGNOSTIC (entry_time=2025-02-21, iv=0.192100, rv_short=0.164520, rv_medium=0.189300, trend_strength=0.003217, contracts=2, delta=0.440000, gamma=4.180000, vega=79.320000, next_bar_return=-0.011875)
+2025-02-24 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-02-25 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-02-26 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-02-27 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-02-28 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-02-28 STANCE LONG_VOL->PAUSED (mode=adaptive, reason=PAUSED: long exit)
+2025-03-04 STANCE PAUSED->FLAT (mode=adaptive, reason=FLAT: no adaptive regime)
+2025-03-17 STANCE FLAT->LONG_VOL (mode=adaptive, reason=LONG: adaptive enter persisted)
+2025-03-18 RISK_CLAMP mode=adaptive (requested=5, clamped=3, reason=Blocked: capital-at-risk limit breached)
+2025-03-19 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1023, gamma_risk=0.41, zone=green, size_factor=0.5000)
+2025-03-19 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-03-20 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-03-21 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1356, gamma_risk=0.54, zone=green, size_factor=0.5000)
+2025-03-21 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-03-24 RISK GLOBAL_DRAWDOWN_KILL|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.2797, gamma_risk=0.73, zone=green, size_factor=1.0000)
+2025-03-26 RISK_CLAMP mode=adaptive (requested=10, clamped=2, reason=Blocked: capital-at-risk limit breached)
+2025-03-27 RISK GLOBAL_DRAWDOWN_KILL|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.2619, gamma_risk=0.18, zone=green, size_factor=1.0000)
+2025-03-31 RISK_CLAMP mode=adaptive (requested=3, clamped=2, reason=Blocked: capital-at-risk limit breached)
+2025-04-01 RISK GLOBAL_DRAWDOWN_KILL|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.3029, gamma_risk=0.18, zone=green, size_factor=1.0000)
+2025-04-03 RISK_CLAMP mode=adaptive (requested=3, clamped=1, reason=Blocked: capital-at-risk limit breached)
+2025-04-03 STANCE LONG_VOL->PAUSED (mode=adaptive, reason=PAUSED: long exit)
+2025-04-04 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1641, gamma_risk=0.05, zone=green, size_factor=0.5000)
+2025-04-07 STANCE PAUSED->FLAT (mode=adaptive, reason=FLAT: no adaptive regime)
+2025-04-10 STANCE FLAT->LONG_VOL (mode=adaptive, reason=LONG: adaptive enter persisted)
+2025-05-20 RISK_CLAMP mode=adaptive (requested=5, clamped=2, reason=Blocked: capital-at-risk limit breached)
+2025-05-21 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1080, gamma_risk=0.33, zone=green, size_factor=0.5000)
+2025-05-21 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-05-22 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1318, gamma_risk=0.42, zone=green, size_factor=0.5000)
+2025-05-22 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-05-23 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1077, gamma_risk=0.54, zone=green, size_factor=0.5000)
+2025-05-23 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-05-27 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-05-28 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-05-29 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-05-30 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-06-02 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1399, gamma_risk=0.21, zone=green, size_factor=0.5000)
+2025-06-02 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-06-03 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1834, gamma_risk=0.23, zone=green, size_factor=0.5000)
+2025-06-04 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1933, gamma_risk=0.12, zone=green, size_factor=0.5000)
+2025-06-05 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1785, gamma_risk=0.12, zone=green, size_factor=0.5000)
+2025-06-06 RISK GLOBAL_DRAWDOWN_KILL|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.2076, gamma_risk=0.15, zone=green, size_factor=1.0000)
+2025-06-10 RISK_CLAMP mode=adaptive (requested=4, clamped=2, reason=Blocked: leverage limit breached)
+2025-06-11 RISK GLOBAL_DRAWDOWN_KILL|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.2034, gamma_risk=0.40, zone=green, size_factor=1.0000)
+2025-06-13 RISK_CLAMP mode=adaptive (requested=7, clamped=2, reason=Blocked: capital-at-risk limit breached)
+2025-06-16 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1481, gamma_risk=0.17, zone=green, size_factor=0.5000)
+2025-06-16 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-06-16 STANCE LONG_VOL->PAUSED (mode=adaptive, reason=PAUSED: long exit)
+2025-06-18 STANCE PAUSED->FLAT (mode=adaptive, reason=FLAT: no adaptive regime)
+2025-08-06 STANCE FLAT->SHORT_VOL (mode=adaptive, reason=SHORT: adaptive enter persisted)
+2025-08-07 RISK_CLAMP mode=adaptive (requested=-3, clamped=-2, reason=Blocked: leverage limit breached)
+2025-08-08 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-08-11 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-08-12 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-08-13 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-08-13 STANCE SHORT_VOL->PAUSED (mode=adaptive, reason=PAUSED: short exit)
+2025-08-15 STANCE PAUSED->FLAT (mode=adaptive, reason=FLAT: no adaptive regime)
+2025-08-18 STANCE FLAT->LONG_VOL (mode=adaptive, reason=LONG: adaptive enter persisted)
+2025-08-19 RISK_CLAMP mode=adaptive (requested=3, clamped=2, reason=Blocked: leverage limit breached)
+2025-08-20 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-08-21 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-08-22 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-08-25 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-08-26 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-08-27 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1093, gamma_risk=0.33, zone=green, size_factor=0.5000)
+2025-08-27 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-08-28 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1446, gamma_risk=0.37, zone=green, size_factor=0.5000)
+2025-09-02 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-09-03 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1145, gamma_risk=0.52, zone=green, size_factor=0.5000)
+2025-09-03 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-09-03 STANCE LONG_VOL->PAUSED (mode=adaptive, reason=PAUSED: long exit)
+2025-09-04 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1698, gamma_risk=0.78, zone=green, size_factor=0.5000)
+2025-09-05 STANCE PAUSED->FLAT (mode=adaptive, reason=FLAT: no adaptive regime)
+2025-09-08 STANCE FLAT->SHORT_VOL (mode=adaptive, reason=SHORT: adaptive enter persisted)
+2025-09-10 RISK GLOBAL_DRAWDOWN_THROTTLE (mode=adaptive, dd=0.1668, gamma_risk=0.23, zone=green, size_factor=0.5000)
+2025-09-11 RISK GLOBAL_DRAWDOWN_THROTTLE (mode=adaptive, dd=0.1326, gamma_risk=0.25, zone=green, size_factor=0.5000)
+2025-09-12 RISK GLOBAL_DRAWDOWN_THROTTLE (mode=adaptive, dd=0.1208, gamma_risk=0.13, zone=green, size_factor=0.5000)
+2025-09-15 RISK GLOBAL_DRAWDOWN_THROTTLE (mode=adaptive, dd=0.1024, gamma_risk=0.13, zone=green, size_factor=0.5000)
+2025-09-16 RISK GLOBAL_DRAWDOWN_THROTTLE (mode=adaptive, dd=0.1028, gamma_risk=0.14, zone=green, size_factor=0.5000)
+2025-09-17 RISK GLOBAL_DRAWDOWN_THROTTLE (mode=adaptive, dd=0.1017, gamma_risk=0.15, zone=green, size_factor=0.5000)
+2025-09-19 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-09-22 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
+2025-09-22 STANCE SHORT_VOL->PAUSED (mode=adaptive, reason=PAUSED: short exit)
+2025-09-24 STANCE PAUSED->FLAT (mode=adaptive, reason=FLAT: no adaptive regime)
+2025-10-21 STANCE FLAT->LONG_VOL (mode=adaptive, reason=LONG: adaptive enter persisted)
+2025-10-22 RISK_CLAMP mode=adaptive (requested=4, clamped=2, reason=Blocked: capital-at-risk limit breached)
+2025-10-23 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-10-24 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1443, gamma_risk=0.28, zone=green, size_factor=0.5000)
+2025-10-24 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-10-27 RISK GLOBAL_DRAWDOWN_KILL|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.2352, gamma_risk=0.31, zone=green, size_factor=1.0000)
+2025-10-29 RISK_CLAMP mode=adaptive (requested=4, clamped=1, reason=Blocked: capital-at-risk limit breached)
+2025-10-30 RISK GLOBAL_DRAWDOWN_KILL|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.2067, gamma_risk=0.20, zone=green, size_factor=1.0000)
+2025-11-03 RISK_CLAMP mode=adaptive (requested=7, clamped=2, reason=Blocked: leverage limit breached)
+2025-11-04 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-11-05 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-11-06 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-11-07 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-11-10 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1086, gamma_risk=0.22, zone=green, size_factor=0.5000)
+2025-11-10 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-11-11 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1059, gamma_risk=0.23, zone=green, size_factor=0.5000)
+2025-11-12 RISK GLOBAL_DRAWDOWN_THROTTLE|LONG_PAUSE_DRAWDOWN (mode=adaptive, dd=0.1072, gamma_risk=0.12, zone=green, size_factor=0.5000)
+2025-11-12 STANCE LONG_VOL->PAUSED (mode=adaptive, reason=PAUSED: long exit)
+2025-11-14 STANCE PAUSED->FLAT (mode=adaptive, reason=FLAT: no adaptive regime)
+2025-12-16 STANCE FLAT->LONG_VOL (mode=adaptive, reason=LONG: adaptive enter persisted)
+2025-12-29 RISK_CLAMP mode=adaptive (requested=5, clamped=2, reason=Blocked: leverage limit breached)
+2025-12-30 RISK_BLOCK mode=adaptive Blocked: capital-at-risk limit breached
+2025-12-31 RISK_BLOCK mode=adaptive Blocked: leverage limit breached
