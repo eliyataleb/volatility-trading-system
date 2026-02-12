@@ -18,7 +18,7 @@ The initial hypothesis was that a continuously traded, delta-hedged options stra
 - drawdown-based throttling,
 - and a hard kill switch.
 
-The system traded liquid ETF options (SPY, later TSLA), dynamically hedging delta with the underlying.
+The system traded liquid ETF options (QQQ, SPY, later TSLA), dynamically hedging delta with the underlying.
 
 ---
 
