@@ -191,4 +191,4 @@ Flat equity was interpreted as **correct abstention**, not failure.
 This project reflects a full research lifecycle:
 **hypothesis → failure → diagnosis → redesign**.
 
-It demonstrates why volatility strategies fail when misapplied, and why regime-aware participation — including disciplined non-participation — is essential for sustainable performance.
+It demonstrates why volatility strategies fail when misapplied, and why regime-aware participation, including disciplined non-participation, is essential for sustainable performance.
