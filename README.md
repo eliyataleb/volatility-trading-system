@@ -248,7 +248,7 @@ This writes:
 
 ## Sample Run (Current Data)
 
-- Dataset example: `SPY 2026` real minute bars from Yahoo Finance
+- Dataset example: `QQQ 2025` real minute bars from Yahoo Finance
 - Approx rows: depends on date range and Yahoo intraday availability limits
 
 ## Notes
