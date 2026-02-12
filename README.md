@@ -17,6 +17,13 @@ The focus is on:
 - convexity exposure
 - risk containment under stress
 
+## Data / Modeling Assumptions 
+
+- Option prices are **rolling ATM option proxies** with fixed time-to-maturity, not single expiring contracts.
+- The option leg uses a deterministic ATM Black–Scholes proxy for consistency across regimes.
+- Execution assumes next-bar fills with simplified transaction cost and slippage models.
+- The system is intended for research and educational use, not live deployment.
+
 ## Strategy
 
 - Universe: `SPY` options + `SPY` shares for delta hedge
