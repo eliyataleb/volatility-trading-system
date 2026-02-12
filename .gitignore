@@ -3,6 +3,19 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Project outputs (generated)
+results/
+data/
+*.csv
+
+# MacOS
+.DS_Store
+
+# Local secrets (if any)
+*.pem
+*.key
+*.env
+
 # C extensions
 *.so
 
