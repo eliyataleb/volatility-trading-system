@@ -3,6 +3,18 @@
 This project implements a constrained options trading simulator focused on risk engineering, not headline returns.
 Data resolution follows the input dataset (real-data generation defaults to minute bars).
 
+## Scope & Limitations
+
+This system is intended for research and educational purposes.
+It does NOT claim live profitability and deliberately trades under
+simplified option proxies and execution assumptions.
+
+The focus is on:
+- regime selection
+- hedging bleed
+- convexity exposure
+- risk containment under stress
+
 ## Strategy
 
 - Universe: `SPY` options + `SPY` shares for delta hedge
